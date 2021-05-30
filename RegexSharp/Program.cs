@@ -6,7 +6,19 @@ namespace RegexSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            string userinput;
+
+            do
+            {
+                Console.Write("Regex: ");
+                userinput = Console.ReadLine();
+                Console.WriteLine(Calc(userinput));
+            } while (true);
+        }
+
+        public static string Calc(string reg)
+        {
+            throw new NotImplementedException();
         }
     }
 }
