@@ -1,0 +1,13 @@
+C:\Users\James\source\repos\RegexSharp\RegexSharp\bin\Debug\netcoreapp3.1\RegexSharp.exe
+C:\Users\James\source\repos\RegexSharp\RegexSharp\bin\Debug\netcoreapp3.1\RegexSharp.deps.json
+C:\Users\James\source\repos\RegexSharp\RegexSharp\bin\Debug\netcoreapp3.1\RegexSharp.runtimeconfig.json
+C:\Users\James\source\repos\RegexSharp\RegexSharp\bin\Debug\netcoreapp3.1\RegexSharp.runtimeconfig.dev.json
+C:\Users\James\source\repos\RegexSharp\RegexSharp\bin\Debug\netcoreapp3.1\RegexSharp.dll
+C:\Users\James\source\repos\RegexSharp\RegexSharp\bin\Debug\netcoreapp3.1\RegexSharp.pdb
+C:\Users\James\source\repos\RegexSharp\RegexSharp\obj\Debug\netcoreapp3.1\RegexSharp.csprojAssemblyReference.cache
+C:\Users\James\source\repos\RegexSharp\RegexSharp\obj\Debug\netcoreapp3.1\RegexSharp.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\RegexSharp\RegexSharp\obj\Debug\netcoreapp3.1\RegexSharp.AssemblyInfo.cs
+C:\Users\James\source\repos\RegexSharp\RegexSharp\obj\Debug\netcoreapp3.1\RegexSharp.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\RegexSharp\RegexSharp\obj\Debug\netcoreapp3.1\RegexSharp.dll
+C:\Users\James\source\repos\RegexSharp\RegexSharp\obj\Debug\netcoreapp3.1\RegexSharp.pdb
+C:\Users\James\source\repos\RegexSharp\RegexSharp\obj\Debug\netcoreapp3.1\RegexSharp.genruntimeconfig.cache
